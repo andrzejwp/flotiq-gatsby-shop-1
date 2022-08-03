@@ -92,7 +92,7 @@ You can also deploy this project to [Heroku](https://www.heroku.com/) in 3 minut
 
 Or to [Netlify](https://www.netlify.com/):
 
-[![Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/flotiq/flotiq-gatsby-shop-1)
+[![Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/andrzejwp/flotiq-gatsby-shop-1)
 
 
 ## What's inside?
